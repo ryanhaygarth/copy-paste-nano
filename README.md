@@ -1,4 +1,9 @@
 # Copy and Paste in Nano  
+
+Nevermind, this isnt working for me anymore, if anyone would be able to suggest ways to fix it that would be very helpful  
+Currently when copying, you have to do the shortcut twice to copy it and it opens a new tab  
+
+
 Copy and paste from the global clipboard in nano  
 Nano doesnt let you copy and paste from the clipboard, only its own "Cutbuffer"  
 To enable this, first install xclip  
